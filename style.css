@@ -149,7 +149,7 @@ body{
 .about{
    
     max-width: 800px;
-    padding: 4rem 0.3rem 2rem 18rem;
+    padding: 4rem 0rem 2rem 18rem;
     border-radius: 10px;
     float: left;
 }
